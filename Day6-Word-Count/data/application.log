@@ -1,0 +1,19 @@
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+WARN Low memory available
+INFO Processing request
+ERROR File not found
+INFO Request completed
+ERROR Database connection failed
+WARN High CPU usage
+INFO User logout successful
+ERROR Authentication failed
+INFO Application running
+ERROR File not found
+INFO Processing request
+WARN Disk space low
+ERROR Network connection failed
+INFO Request completed
+ERROR Database connection failed
+INFO Application stopped
