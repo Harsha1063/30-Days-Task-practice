@@ -1,0 +1,10 @@
+apple,100
+banana,200
+apple,150
+orange,300
+banana,100
+apple,200
+orange,150
+banana,250
+grapes,120
+apple,50
