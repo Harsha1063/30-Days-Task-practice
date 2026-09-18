@@ -1,0 +1,16 @@
+Laptop,Electronics,75000
+Phone,Electronics,30000
+Tablet,Electronics,20000
+Chair,Furniture,8000
+Table,Furniture,15000
+Laptop,Electronics,65000
+Phone,Electronics,25000
+Sofa,Furniture,30000
+Monitor,Electronics,18000
+Chair,Furniture,7000
+Keyboard,Electronics,5000
+Mouse,Electronics,2500
+Desk,Furniture,12000
+Laptop,Electronics,70000
+Phone,Electronics,28000
+Sofa,Furniture,35000
