@@ -1,0 +1,10 @@
+A101,deposit,5000
+A102,withdrawal,1500
+A101,withdrawal,1000
+A103,deposit,8000
+A102,deposit,3000
+A101,deposit,2500
+A103,withdrawal,2000
+A102,withdrawal,500
+A104,deposit,6000
+A104,withdrawal,1000
