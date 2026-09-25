@@ -1,0 +1,16 @@
+employee_id,employee_name,department,month,sales_amount
+E001,Arjun,Electronics,January,50000
+E002,Rahul,Electronics,January,70000
+E003,Kiran,Electronics,January,60000
+E001,Arjun,Electronics,February,65000
+E002,Rahul,Electronics,February,80000
+E003,Kiran,Electronics,February,55000
+E001,Arjun,Electronics,March,75000
+E002,Rahul,Electronics,March,90000
+E003,Kiran,Electronics,March,70000
+E004,Vikram,Clothing,January,40000
+E005,Anil,Clothing,January,35000
+E004,Vikram,Clothing,February,45000
+E005,Anil,Clothing,February,50000
+E004,Vikram,Clothing,March,55000
+E005,Anil,Clothing,March,48000
