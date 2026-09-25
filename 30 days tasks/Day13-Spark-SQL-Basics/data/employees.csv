@@ -1,0 +1,9 @@
+employee_id,name,department,salary,experience
+E001,Harsha,Data Engineering,65000,2
+E002,Rahul,Data Engineering,72000,4
+E003,Anjali,Analytics,58000,2
+E004,Vikram,Analytics,68000,5
+E005,Priya,HR,52000,3
+E006,Kiran,Data Engineering,80000,6
+E007,Sneha,HR,60000,4
+E008,Arjun,Analytics,75000,5
