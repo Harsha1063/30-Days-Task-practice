@@ -1,0 +1,13 @@
+transaction_id,product,category,region,quantity,price
+T001,Laptop,Electronics,South,2,65000
+T002,Phone,Electronics,North,5,25000
+T003,Headphones,Electronics,South,10,3000
+T004,Shirt,Clothing,East,8,1500
+T005,Jeans,Clothing,West,5,2500
+T006,Rice,Grocery,South,20,1200
+T007,Coffee,Grocery,North,15,500
+T008,Tablet,Electronics,East,3,30000
+T009,Shoes,Clothing,South,6,3500
+T010,Milk,Grocery,West,25,700
+T011,Monitor,Electronics,North,4,18000
+T012,Jacket,Clothing,East,3,4500
