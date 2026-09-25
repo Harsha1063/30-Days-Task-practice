@@ -1,0 +1,9 @@
+product_id,product_name,category,price,quantity
+P001,Laptop,Electronics,75000,5
+P002,Mouse,Electronics,1200,20
+P003,Keyboard,Electronics,2500,15
+P004,TShirt,Clothing,1200,30
+P005,Jeans,Clothing,2500,20
+P006,Rice,Grocery,800,50
+P007,Coffee,Grocery,600,40
+P008,Monitor,Electronics,18000,10
