@@ -1,0 +1,8 @@
+target/
+.bsp/
+.metals/
+.bloop/
+.idea/
+spark-warehouse/
+*.class
+*.log

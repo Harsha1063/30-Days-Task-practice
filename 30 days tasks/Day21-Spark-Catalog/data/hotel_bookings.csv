@@ -1,0 +1,9 @@
+booking_id,customer_name,hotel,city,room_type,price,status
+B001,Arjun,Grand Palace,Hyderabad,Deluxe,6500,Confirmed
+B002,Rahul,Royal Stay,Bangalore,Suite,9000,Confirmed
+B003,Kiran,Grand Palace,Hyderabad,Standard,4500,Cancelled
+B004,Vikram,Sea View,Chennai,Deluxe,7000,Confirmed
+B005,Anil,Royal Stay,Bangalore,Standard,5000,Confirmed
+B006,Suresh,Grand Palace,Hyderabad,Suite,10000,Confirmed
+B007,Manoj,Sea View,Chennai,Standard,4200,Cancelled
+B008,Prakash,Royal Stay,Bangalore,Deluxe,6800,Confirmed
